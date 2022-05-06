@@ -1,0 +1,19 @@
+* {
+    font-family: cursive;
+    background-color: aquamarine;
+}
+
+div {
+    text-align: left;
+}
+
+h1 {
+    color: white;
+    width: auto;
+    text-decoration: underline;
+}
+
+ul {
+    padding-left: 0;
+    list-style-position: inside;
+}
